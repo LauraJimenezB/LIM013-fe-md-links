@@ -4,13 +4,13 @@
   "description": "vaidate md links and provide stats",
   "main": "index.js",
   "bin": {
-    "md-links": "src/index.js"
+    "md-links": "./index.js"
   },
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "testmd"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -35,6 +35,7 @@
     "jest": "^26.4.2"
   },
   "dependencies": {
-    "fetch-mock": "^9.10.7"
+    "fetch-mock": "^9.10.7",
+    "markdown-it": "^11.0.1"
   }
 }
