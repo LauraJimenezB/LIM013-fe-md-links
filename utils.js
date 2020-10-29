@@ -63,7 +63,7 @@ const pathToFile = (path) => {
       return filesArray.filter(f => isMd(f));
    }
  }
-//console.log (pathToFile(folder));
+//console.log (pathToFile('C:\\Users\\laira\\JAVASCRIPT\\LIM013-fe-md-links\\ForTests\\reade.md'));
 
 
 const getLinks = (file) => {
