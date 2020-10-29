@@ -28,11 +28,11 @@ El siguiente diagrama de flujo representa el algoritmo que soluciona el problema
 
  Puede instalar la librería de la siguiente forma npm install
  ```
- npm install --g laurajimenez-md-links
+ npm install --g @laurajimenez/md-links
  ```
  o de manera local para usar la Api 
  ```
- npm install --save laurajimenez-md-links
+ npm install --save @laurajimenez/md-links
  ```
 
 ## Guía de uso
