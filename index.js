@@ -39,7 +39,7 @@ const mdLinks = (dir, option) => {
   })
 }
 /*
-(mdLinks(folder, {validate:false, stats:false})).then ((res)=>{
+(mdLinks(folder, {validate:true, stats:false})).then ((res)=>{
   console.log(res);
 })
 
