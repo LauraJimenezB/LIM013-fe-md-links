@@ -15,7 +15,7 @@ Dentro de una comunidad de código abierto, nos han propuesto crear una herramie
 
 ## Homepage
 
-[GitHub Laura Jimenez B](https://github.com/LauraJimenezB/LIM013-fe-md-links)
+[GitHub Laura Jimenez B](https://github.com/LauraJimenezB)
 
 ## Diagrama de flujo
 
